@@ -1,0 +1,9 @@
+{
+  "name": "baseline",
+  "displayName": "Baseline",
+  "version": "0.1.0",
+  "description": "Log meals, review your week and plan workouts in Baseline, your personal health log, from a conversation with Claude.",
+  "author": { "name": "Chaitanya Bhagwat", "url": "https://baseline.chaitanyabhagwat.com" },
+  "homepage": "https://baseline.chaitanyabhagwat.com",
+  "license": "MIT"
+}

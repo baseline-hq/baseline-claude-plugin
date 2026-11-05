@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "baseline": {
+      "type": "http",
+      "url": "https://baseline.chaitanyabhagwat.com/api/mcp"
+    }
+  }
+}
