@@ -20,3 +20,7 @@ The plugin sends your requests to your Baseline account through https://baseline
     claude --plugin-dir .
 
 On claude.ai, zip this folder and upload it under Customize > Plugins > Add > Upload plugin.
+
+## Interactive app (planned)
+
+The next step is an MCP App served by the Baseline connector: a "Baseline Today" view with macros left and today's meals. It opens inline, in the side panel, or from the app list. See [docs/mcp-apps-plan.md](docs/mcp-apps-plan.md). The plan is shared with the other Baseline plugin repo.
